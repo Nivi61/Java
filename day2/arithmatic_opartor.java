@@ -1,7 +1,7 @@
 /*aritmatic oprators are +(add), -(sub), *(multiplication), /(division), %(modulas)
  */
 package day2;
-import java.util.Scanner;
+
 
 
 public class arithmatic_opartor {
