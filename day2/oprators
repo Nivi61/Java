@@ -1,0 +1,15 @@
+
+/*There are different types of Oprator :1.Arithmatic operator 
+                                           Compound Arithmatic Operator
+                                        2. Logical Operator
+                                        3. Relational operator
+And different Operants like :1. Unary operants (i++,i--)
+                             2. Binary operats (a+b)
+                             3. ternary operants ((Condition)? option1 : option2;)                                        
+                                          */
+
+                
+
+        }
+        
+}
