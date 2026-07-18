@@ -21,7 +21,8 @@ Each folder represents a day of learning and includes the programs I practiced o
 - Loops
 - Methods
 - Arrays
-- Object-Oriented Programming (Coming Soon)
+- Object-Oriented Programming (OOP)
+- Data Structure and Alogorithm (DSA)
 
 ## 💡 Why this Repository?
 I believe the best way to learn programming is by writing code consistently. This repository is my public learning journal where I document my progress one commit at a time.
