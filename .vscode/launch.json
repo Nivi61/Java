@@ -1,0 +1,126 @@
+{
+        // Use IntelliSense to learn about possible attributes.
+        // Hover to view descriptions of existing attributes.
+        // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+        "version": "0.2.0",
+        "configurations": [
+                {
+                        "type": "java",
+                        "name": "swap2to2last",
+                        "request": "launch",
+                        "mainClass": "day13.swap2to2last",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "swap2andlast",
+                        "request": "launch",
+                        "mainClass": "day13.swap2andlast",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "swap1andlast",
+                        "request": "launch",
+                        "mainClass": "day13.swap1andlast",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "add_withoutaddoperator",
+                        "request": "launch",
+                        "mainClass": "day13.add_withoutaddoperator",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "swapvar_withouttemp",
+                        "request": "launch",
+                        "mainClass": "day13.swapvar_withouttemp",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "digit_swap",
+                        "request": "launch",
+                        "mainClass": "day13.digit_swap",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "assignment_operator",
+                        "request": "launch",
+                        "mainClass": "day13.assignment_operator",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "operators",
+                        "request": "launch",
+                        "mainClass": "day12.operators",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "string",
+                        "request": "launch",
+                        "mainClass": "day11.string",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "char_operator",
+                        "request": "launch",
+                        "mainClass": "day2.char_operator",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "char_oprator",
+                        "request": "launch",
+                        "mainClass": "day2.char_oprator",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "Double_oprator",
+                        "request": "launch",
+                        "mainClass": "day2.Double_oprator",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "logical_oprator",
+                        "request": "launch",
+                        "mainClass": "day2.logical_oprator",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "litrals",
+                        "request": "launch",
+                        "mainClass": "day2.litrals",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "pattern3",
+                        "request": "launch",
+                        "mainClass": "day9.pattern3",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "pattern4",
+                        "request": "launch",
+                        "mainClass": "day9.pattern4",
+                        "projectName": "java_2dd4ac8"
+                },
+                {
+                        "type": "java",
+                        "name": "Current File",
+                        "request": "launch",
+                        "mainClass": "${file}"
+                }
+        ]
+}

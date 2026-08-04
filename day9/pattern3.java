@@ -12,7 +12,7 @@ public class pattern3 {
                         System.out.println();
                 }
         }
-        public void main(String[]args){
+        public static void main(String[]args){
                 pattern3 obj = new pattern3();
                 obj.pattern(4);
         }

@@ -13,7 +13,7 @@ public class pattern4{
                         
                 }
         }
-        public void main(String[]args){
+        public static void main(String[]args){
                 pattern4 obj = new pattern4();
                 obj.pattern(4);
 
